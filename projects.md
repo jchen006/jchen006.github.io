@@ -28,7 +28,7 @@ Optimized matrix multiplication in C using different techniques such as SSE inst
 
 #### Cal Apps - Fall 2013 
 Built a SaaS application for UC Berkeley students to exhibit their applications using Ruby on Rails.
-[Cal Apps](:www.calsappsdev.herokuapp.com)
+[Cal Apps](calsappsdev.herokuapp.com)
 
 
 #### Relational Databae - Fall 2013 
