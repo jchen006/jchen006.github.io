@@ -28,12 +28,11 @@ Optimized matrix multiplication in C using different techniques such as SSE inst
 
 #### Cal Apps - Fall 2013 
 Built a SaaS application for UC Berkeley students to exhibit their applications using Ruby on Rails.
+[Cal Apps](www.calsappsdev.herokuapp.com)
 
 
 #### Relational Databae - Fall 2013 
 Created a Simple Database that could process concurrent SQL queries to modify, join, and aggregate tables. Developed a Selinger cost-based query optimizer to efficiently process operations within the query. Implemented strict two-phase locking to ensure isolation and atomicity of concurrent transactions. Rigorously tested functionality and edge cases with the JUnit testing framework.
-
-SaaS application 
 
 ### Personal Projects
 
